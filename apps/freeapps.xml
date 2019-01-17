@@ -1,11 +1,6 @@
 <photographyapps>  
      
-   <photography>   
-<apptitle>Makar Sankranti Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.sankrantiphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/makarpf.png</appicon>
-</photography>
-  
+ 
    <photography>
 <apptitle>Garden Photo Frames</apptitle>
 <applink>market://details?id=com.dreamystudios.gardenphotoframes</applink>
